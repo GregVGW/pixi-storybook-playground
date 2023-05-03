@@ -26,6 +26,7 @@
   },
   "dependencies": {
     "@pixi/storybook-renderer": "file:../pixi-storybook-vite/packages/storybook-renderer",
-    "@pixi/storybook-vite": "file:../pixi-storybook-vite/packages/storybook-vite"
+    "@pixi/storybook-vite": "file:../pixi-storybook-vite/packages/storybook-vite",
+    "pixi.js": "7.2.4"
   }
 }
